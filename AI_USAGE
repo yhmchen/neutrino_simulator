@@ -1,0 +1,7 @@
+# AI Usage Disclosure
+
+- **工具**：Claude,ChatGPT-4,perplexity
+- **用途**：
+  - 生成 neutrino_oscillation.py 文件的初始框架
+  - 协助推导某些微分方程的中间步骤
+- **备注**：所有 AI 建议均已人工复核并在注释中注明来源。
