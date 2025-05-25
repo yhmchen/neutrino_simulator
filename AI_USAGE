@@ -1,7 +1,9 @@
 # AI Usage Disclosure
 
-- **工具**：Claude,ChatGPT-4,perplexity
+- **工具**：Claude,ChatGPT,perplexity
 - **用途**：
+  -一開始使用chatgpt用python協助生成程式碼大致框架，並用claude協助改寫成python和C++混合編程
+   ，並且在初期使用perplexity協助將所有的程式碼綁定成功
   - 生成 neutrino_oscillation.py 文件的初始框架
   - 协助推导某些微分方程的中间步骤
 - **备注**：所有 AI 建议均已人工复核并在注释中注明来源。
