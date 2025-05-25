@@ -6,3 +6,5 @@ mkdir build;
 python setup.py build_ext --inplace;
 1.BP2000 model:python manage.py 
 2.自訂義模型：python manage.py custom
+
+另外，每次在改動C++檔案的時候都需要重新build
