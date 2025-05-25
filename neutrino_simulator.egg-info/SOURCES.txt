@@ -1,0 +1,6 @@
+setup.py
+neutrino_simulator.egg-info/PKG-INFO
+neutrino_simulator.egg-info/SOURCES.txt
+neutrino_simulator.egg-info/dependency_links.txt
+neutrino_simulator.egg-info/not-zip-safe
+neutrino_simulator.egg-info/top_level.txt

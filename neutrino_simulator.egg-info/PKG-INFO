@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: neutrino_simulator
+Version: 0.1
+Summary: A C++ accelerated neutrino oscillation simulator
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Python: >=3.6

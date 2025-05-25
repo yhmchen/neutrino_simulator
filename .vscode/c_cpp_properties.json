@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac" /* or Linux/Win32 depending on your system */,
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/build/temp.macosx-11.1-arm64-cpython-312/_deps/pybind11-src/include",
+                "$/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang", /* adjust as needed */
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
